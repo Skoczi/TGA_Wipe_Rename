@@ -1,4 +1,4 @@
-# Wipe Rename
+# TGA Wipe Rename
 This Python application is a script designed to batch rename .tga image files within a specified folder. It allows the user to:
 
 Specify the folder containing the .tga files.
